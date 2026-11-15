@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-<title id="t">Hero EQ evolution timeline</title>
+<title id="t">Product Squad evolution timeline</title>
 <desc id="d">From a first commit on 18 October 2026 with an Expo scaffold, to native SwiftUI, a first run on an iPhone on 19 October, a focus pass and onboarding on 22 October, and external testing still to be decided.</desc>
 <rect width="1200" height="370" rx="14" fill="#0f172a"/>
-<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">How Hero EQ evolved in its first week</text>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">How Product Squad evolved in its first week</text>
 <line x1="100" y1="175" x2="1100" y2="175" stroke="#334155" stroke-width="3"/>
 <rect x="32" y="141" width="136" height="68" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2.5"/>
 <text x="100" y="171" font-size="14.5" fill="#f8fafc" text-anchor="middle" font-weight="700" xml:space="preserve"><tspan x="100" dy="0">First commit</tspan></text>

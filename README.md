@@ -1,8 +1,8 @@
-# Hero EQ
+# Product Squad
 
 **A private, iPhone-first AI copilot for product leaders. This page is the case study: the problem, how I decided what to build, what I learned, and how it was built.**
 
-*Formerly PocketPM. Built by [Jamil H. (Hero Minutes)](https://github.com/herominutes). Site: [pocketpm.dev](https://www.pocketpm.dev) (an earlier landing page that still shows the old name; it is being updated).*
+*Formerly Hero EQ and PocketPM. Built by [Jamil H. (Hero Minutes)](https://github.com/herominutes). Site: [pocketpm.dev](https://www.pocketpm.dev) (an earlier landing page that still shows the old name; it is being updated).*
 
 > **Status: prototype, not on the App Store.** The app runs on my own iPhone through internal TestFlight builds. I am the only user so far. There are no external testers, no revenue and no usage data, and nothing here claims otherwise. The code is private; this repo holds the thinking, not the code. **TestFlight: internal testing only. External testing TBD.**
 
@@ -129,7 +129,7 @@ flowchart LR
 
 <img src="assets/evolution-timeline.svg" width="100%" alt="Timeline: first commit on 18 October 2026 with an Expo scaffold, a switch to native SwiftUI, a first iPhone run on 19 October, a focus pass on 22 October, and external testing to be decided.">
 
-The repo's first commit was an Expo / React Native scaffold, which I replaced with a native SwiftUI iPhone app the same day. The name changed four times along the way: Product Brain, Hero EQ, PocketPM, then Hero EQ again.
+The repo's first commit was an Expo / React Native scaffold, which I replaced with a native SwiftUI iPhone app the same day. The name changed four times along the way: Product Brain, Hero EQ, PocketPM, then Hero EQ again. It is now called Product Squad.
 
 ## Roadmap and status
 
